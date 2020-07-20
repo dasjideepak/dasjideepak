@@ -15,20 +15,20 @@ I have completed my three years Diploma in Information Technology from [Governme
 
 <img width="50%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
-  🔭 I’m currently working on todo app using React-Redux
-  🌱 I’m currently learning React and Redux 
-  👯 I’m looking to collaborate on open source project
-  💬 Ask me about anything and everything
-  📫 How to reach me: dasjideepak@gmail.com
-  📫 Hire me: [Upwork](https://www.upwork.com/o/profiles/users/~012387cc899aca58d5/)
-  📫 Read my blogs: [https://dasjideepak.tech](https://dasjideepak.tech/)
-  🎯 Portfolio site: [https://helpingdeepak.com](https://helpingdeepak.com/)
+- 🔭 I’m currently working on todo app using React-Redux
+- 🌱 I’m currently learning React and Redux 
+- 👯 I’m looking to collaborate on open source project
+- 💬 Ask me about anything and everything
+- 📫 How to reach me: dasjideepak@gmail.com
+- 📫 Hire me: [Upwork](https://www.upwork.com/o/profiles/users/~012387cc899aca58d5/)
+- 📫 Read my blogs: [https://dasjideepak.tech](https://dasjideepak.tech/)
+- 🎯 Portfolio site: [https://helpingdeepak.com](https://helpingdeepak.com/)
 
 ### Skills ###
 ----------------------------------------------------------------------------------------------------------------------------
-  Languages - **HTML, CSS and JavaScript**
-  Libraries/Frameworks: - **SCSS/SASS, Bootstrap, React, Redux, NodeJS, ExpressJS and REST API**
-  Databases/ODM: - **MySQL, MongoDB and Mongoose**
-  Tools: - **CLI, Git, Github, Developer Tool, Babel and AWS**
+- Languages - **HTML, CSS and JavaScript**
+- Libraries/Frameworks: - **SCSS/SASS, Bootstrap, React, Redux, NodeJS, ExpressJS and REST API**
+- Databases/ODM: - **MySQL, MongoDB and Mongoose**
+- Tools: - **CLI, Git, Github, Developer Tool, Babel and AWS**
 
 ![Deepak's github stats](https://github-readme-stats.vercel.app/api?username=dasjideepak&hide=["issues"]&show_icons=true)
