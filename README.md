@@ -33,7 +33,7 @@ I have completed my three years Diploma in Information Technology from [Governme
 
 ### Github Readme Stats ###
 ----------------------------------------------------------------------------------------------------------------------------
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dasjideepak&theme=radical&hide_langs_below=1"/>
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=dasjideepak&show_icons=true&theme=radical&line_height=27" alt="Deepak's githubstats"/>
-
 *NOTE: Top languages does not indicate my skill level or something like that, It's a github metric of which languages I have the most code on github, It's a new feature of github-readme-stats*
+
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dasjideepak&hide_langs_below=1"/>
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=dasjideepak&show_icons=true&line_height=27" alt="Deepak's githubstats"/>
