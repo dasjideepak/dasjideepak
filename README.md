@@ -32,3 +32,6 @@ I have completed my three years Diploma in Information Technology from [Governme
 - Tools: - **CLI, Git, Github, Developer Tool, Babel and AWS**
 
 ![Deepak's github stats](https://github-readme-stats.vercel.app/api?username=dasjideepak&hide=["issues"]&show_icons=true)
+
+[![Deepak's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dasjideepak)](https://github.com/dasjideepak/github-readme-stats)
+
