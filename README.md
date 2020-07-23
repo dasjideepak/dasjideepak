@@ -31,7 +31,9 @@ I have completed my three years Diploma in Information Technology from [Governme
 - Databases/ODM: - **MySQL, MongoDB and Mongoose**
 - Tools: - **CLI, Git, Github, Developer Tool, Babel and AWS**
 
-![Deepak's github stats](https://github-readme-stats.vercel.app/api?username=dasjideepak&hide=["issues"]&show_icons=true)
+### Github Readme Stats###
+----------------------------------------------------------------------------------------------------------------------------
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dasjideepak&theme=radical&hide_langs_below=1"/>
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=dasjideepak&show_icons=true&theme=radical&line_height=27" alt="Deepak's githubstats"/>
 
-[![Deepak's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dasjideepak)](https://github.com/dasjideepak/github-readme-stats)
-
+*NOTE: Top languages does not indicate my skill level or something like that, It's a github metric of which languages I have the most code on github, It's a new feature of github-readme-stats.
