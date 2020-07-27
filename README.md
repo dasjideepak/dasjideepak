@@ -15,7 +15,7 @@ I have completed my three years Diploma in Information Technology from [Governme
 
 <img width="50%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
-- 🔭 I’m currently working on todo app using React-Redux
+- 🔭 I’m currently working on conduit app using React-Redux
 - 🌱 I’m currently learning React and Redux 
 - 👯 I’m looking to collaborate on open source project
 - 💬 Ask me about anything and everything
