@@ -15,10 +15,7 @@ I have completed my three years Diploma in Information Technology from [Governme
 
 <img width="50%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
-- 🔭 I’m currently working on conduit app using React-Redux
-- 🌱 I’m currently learning React and Redux 
-- 👯 I’m looking to collaborate on open source project
-- 💬 Ask me about anything and everything
+- 🔭 I’m currently practicing React
 - 📫 How to reach me: dasjideepak@gmail.com
 - 📫 Hire me: [Upwork](https://www.upwork.com/o/profiles/users/~012387cc899aca58d5/)
 - 📫 Read my blogs: [https://dasjideepak.tech](https://dasjideepak.tech/)
