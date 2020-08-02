@@ -15,7 +15,7 @@ I have completed my three years Diploma in Information Technology from [Governme
 
 <img width="50%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
-- 🔭 I’m currently practicing React
+- 🔭 I’m currently practicing Data Structure and Algorithm
 - 📫 How to reach me: dasjideepak@gmail.com
 - 📫 Hire me: [Upwork](https://www.upwork.com/o/profiles/users/~012387cc899aca58d5/)
 - 📫 Read my blogs: [https://dasjideepak.tech](https://dasjideepak.tech/)
