@@ -1,11 +1,23 @@
 ## Hi 👋, I'm Deepak Sharma, a Full Stack Web Developer ##
 
-[![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/dasjideepak)
-[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/dasjideepak/)
-[![Instagram](https://img.shields.io/badge/-Instagram-c13584?style=flat&labelColor=c13584&logo=instagram&logoColor=white)](https://www.instagram.com/dasjideepak/)
-[![Twitter](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/dasjideepak)](https://twitter.com/dasjideepak)
-[![Medium](https://img.shields.io/badge/-Medium-03a57a?style=flat-square&labelColor=000000&logo=Medium&link=https://medium.com/@dasjideepak/)](https://medium.com/@dasjideepak)
-[![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:dasjideepak@gmail.com)  
+<a href="https://www.linkedin.com/in/dasjideepak/">
+  <img align="left" alt="Deepak's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+</a>
+<a href="https://twitter.com/dasjideepak">
+  <img align="left" alt="Deepak's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
+</a>
+<a href="https://medium.com/@dasjideepak">
+  <img align="left" alt="Deepak's Medium" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg" />
+</a>
+<a href="https://github.com/dasjideepak">
+  <img align="left" alt="Deepak's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
+</a>
+<a href="https://www.instagram.com/dasjideepak/">
+  <img align="left" alt="Deepak's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
+</a>
+<a href="https://www.facebook.com/dasjideepak">
+  <img align="left" alt="Deepak's Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
+</a>
 &nbsp;
 
 ### About Me ###
@@ -28,13 +40,6 @@ I have completed my three years Diploma in Information Technology from [Governme
 - Databases/ODM: - **MySQL, MongoDB and Mongoose**
 - Tools: - **CLI, Git, Github, Developer Tool, Babel and AWS**
 
-### Github Readme Stats ###
-----------------------------------------------------------------------------------------------------------------------------
-<a href="https://profile-summary-for-github.com/user/dasjideepak">
-  <img align="left" height="170px" src="https://github-readme-stats.vercel.app/api?username=dasjideepak&show_icons=true&line_height=27&count_private=true&include_all_commits=true" alt="Deepak's GitHub stats"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dasjideepak&hide_langs_below=5&layout=compact" alt="Deepak's language stats"/>
-</a>
-
 ### Codewars ###
 ----------------------------------------------------------------------------------------------------------------------------
 <p align="center">
@@ -42,3 +47,10 @@ I have completed my three years Diploma in Information Technology from [Governme
     <img src="https://www.codewars.com/users/dasjideepak/badges/large" />
   </a>
 </p>  
+
+### Github Readme Stats ###
+----------------------------------------------------------------------------------------------------------------------------
+<a href="https://profile-summary-for-github.com/user/dasjideepak">
+  <img align="left" height="170px" src="https://github-readme-stats.vercel.app/api?username=dasjideepak&show_icons=true&line_height=27&count_private=true&include_all_commits=true" alt="Deepak's GitHub stats"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dasjideepak&hide_langs_below=5&layout=compact" alt="Deepak's language stats"/>
+</a>
