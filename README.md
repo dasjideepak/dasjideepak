@@ -29,7 +29,6 @@ I have completed my three years Diploma in Information Technology from [Governme
 
 - 🔭 I’m currently working on React & Redux.
 - 📫 How to reach me: dasjideepak@gmail.com
-- 📫 Hire me: [Upwork](https://www.upwork.com/o/profiles/users/~012387cc899aca58d5/)
 - 📫 Read my blogs: [https://dasjideepak.tech](https://dasjideepak.tech/)
 - 🎯 Portfolio site: [https://helpingdeepak.com](https://helpingdeepak.com/)
 
