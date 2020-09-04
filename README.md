@@ -18,6 +18,7 @@
 <a href="https://www.facebook.com/dasjideepak">
   <img align="left" alt="Deepak's Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
 </a>
+
 &nbsp;
 
 ### About Me ###
@@ -47,6 +48,14 @@ I have completed my three years Diploma in Information Technology from [Governme
   <img height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dasjideepak&hide_langs_below=5&layout=compact" alt="Deepak's language stats"/>
 </a>
 
+### Link to Projects ###
+----------------------------------------------------------------------------------------------------------------------------
+- Any Body Can Help - http://abch.social/
+- Polytechnic Notes - https://polytechnicnotes.com/
+- GPG Website - https://gpghaziabad.ac.in/
+- APIs Info - https://apisinfo.xyz/
+- My Blog - https://dasjideepak.tech/
+
 ### Codewars ###
 ----------------------------------------------------------------------------------------------------------------------------
 <p align="center">
@@ -54,11 +63,3 @@ I have completed my three years Diploma in Information Technology from [Governme
     <img src="https://www.codewars.com/users/dasjideepak/badges/large" />
   </a>
 </p>  
-
-### Link to Projects ###
-----------------------------------------------------------------------------------------------------------------------------
-- Any Body Can Help - http://abch.social/
-- Polytechnic Notes - https://polytechnicnotes.com/
-- GPG Website - https://gpghaziabad.ac.in/
-- APIsInfo - https://apisinfo.xyz/
-- My Blog - https://dasjideepak.tech/
