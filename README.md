@@ -38,4 +38,4 @@ I have completed my three years Diploma in Information Technology from [Governme
 - 🚀 Languages - **HTML, CSS and JavaScript**
 - 🚀 Frameworks/Libraries - **SCSS/SASS, React, Redux, NodeJS and ExpressJS**
 - 🚀 Database/ORM - **MongoDB, Mongoose and PostgresSQL**
-- 🚀 Other - **Git, Developer Tool, Webpack, GraphQL, Hasura REST API Development and OAuth**
+- 🚀 Other - **Git, Developer Tool, Webpack, GraphQL, Hasura, OAuth and REST API Development**
