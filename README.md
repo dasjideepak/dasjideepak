@@ -28,23 +28,14 @@ I have completed my three years Diploma in Information Technology from [Governme
 
 <img width="50%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
-- 🔭 I’m currently working on React & Redux.
+- 🔭 I’m currently working GraphQL, Hasura and Postgres SQL.
 - 📫 How to reach me: dasjideepak@gmail.com
 - 📫 Read my blogs: [https://dasjideepak.tech](https://dasjideepak.tech/)
 - 📫 My Resume: [View PDF](https://drive.google.com/file/d/1Lcfu0_Edzd4OZkBi4-GvNiJAxxTFSLC1/view)
-- 🎯 Portfolio site: [https://helpingdeepak.com](https://helpingdeepak.com/)
 
 ### Skills ###
 ----------------------------------------------------------------------------------------------------------------------------
-- Languages - **HTML, CSS and JavaScript**
-- Libraries/Frameworks: - **SCSS/SASS, Bootstrap, React, Redux, NodeJS, ExpressJS and REST API**
-- Databases/ODM: - **MySQL, MongoDB and Mongoose**
-- Tools: - **CLI, Git, Github, Developer Tool, Babel and AWS**
-
-### Codewars ###
-----------------------------------------------------------------------------------------------------------------------------
-<p align="center">
-  <a href="https://www.codewars.com/users/dasjideepak">
-    <img src="https://www.codewars.com/users/dasjideepak/badges/large" />
-  </a>
-</p>  
+- 🚀 Languages - **HTML, CSS and JavaScript**
+- 🚀 Frameworks/Libraries - **SCSS/SASS, React, Redux, NodeJS and ExpressJS**
+- 🚀 Database/ORM - **MongoDB, Mongoose and PostgresSQL**
+- 🚀 Other - **Git, Developer Tool, Webpack, GraphQL, Hasura REST API Development and OAuth**
