@@ -41,13 +41,6 @@ I have completed my three years Diploma in Information Technology from [Governme
 - Databases/ODM: - **MySQL, MongoDB and Mongoose**
 - Tools: - **CLI, Git, Github, Developer Tool, Babel and AWS**
 
-### Github Readme Stats ###
-----------------------------------------------------------------------------------------------------------------------------
-<a href="https://profile-summary-for-github.com/user/dasjideepak">
-  <img align="left" height="170px" src="https://github-readme-stats.vercel.app/api?username=dasjideepak&show_icons=true&line_height=27&count_private=true&include_all_commits=true" alt="Deepak's GitHub stats"/>
-  <img height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dasjideepak&hide_langs_below=5&layout=compact" alt="Deepak's language stats"/>
-</a>
-
 ### Codewars ###
 ----------------------------------------------------------------------------------------------------------------------------
 <p align="center">
