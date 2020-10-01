@@ -28,7 +28,7 @@ I have completed my three years Diploma in Information Technology from [Governme
 
 <img width="50%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
-- 🔭 I’m currently working GraphQL, Hasura and Postgres SQL.
+- 🔭 I’m currently working on React.
 - 📫 How to reach me: dasjideepak@gmail.com
 - 📫 Read my blogs: [https://dasjideepak.tech](https://dasjideepak.tech/)
 - 📫 My Resume: [View PDF](https://drive.google.com/file/d/1Lcfu0_Edzd4OZkBi4-GvNiJAxxTFSLC1/view)
