@@ -30,7 +30,7 @@ I have completed my three years Diploma in Information Technology from [Governme
 
 - 🔭 I’m looking for job.
 - 📫 How to reach me: dasjideepak@gmail.com
-- 📫 My Portfolio: [https://deepak-dev.netlify.app](https://deepak-dev.netlify.apph/)
+- 📫 My Portfolio: [https://deepak-dev.netlify.app](https://deepak-dev.netlify.app/)
 - 📫 Read my blogs: [https://dasjideepak.tech](https://dasjideepak.tech/)
 - 📫 My Resume: [View PDF](https://drive.google.com/file/d/1JQajsSqBFuGa2kBp8-zXQrrh_dbn5S--/view?usp=sharing)
 
