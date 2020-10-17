@@ -28,10 +28,11 @@ I have completed my three years Diploma in Information Technology from [Governme
 
 <img width="50%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
-- 🔭 I’m currently working on React.
+- 🔭 I’m looking for job.
 - 📫 How to reach me: dasjideepak@gmail.com
+- 📫 My Portfolio: [https://deepak-dev.netlify.app](https://deepak-dev.netlify.apph/)
 - 📫 Read my blogs: [https://dasjideepak.tech](https://dasjideepak.tech/)
-- 📫 My Resume: [View PDF](https://drive.google.com/file/d/1Lcfu0_Edzd4OZkBi4-GvNiJAxxTFSLC1/view)
+- 📫 My Resume: [View PDF](https://drive.google.com/file/d/1JQajsSqBFuGa2kBp8-zXQrrh_dbn5S--/view?usp=sharing)
 
 ### Skills ###
 ----------------------------------------------------------------------------------------------------------------------------
