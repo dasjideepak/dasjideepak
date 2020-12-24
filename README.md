@@ -23,7 +23,7 @@
 
 ### About Me ###
 ----------------------------------------------------------------------------------------------------------------------------
-Currently, I am learning MERN Stack Web Development at [AltCampus](https://altcampus.io/), Dharamshala, Himachal Pradesh.
+I am a Software Engineer at Credilio Financial Technologies Ltd, Before I was learning MERN Stack Web Development at [AltCampus](https://altcampus.io/), Dharamshala, Himachal Pradesh.
 I have completed my three years Diploma in Information Technology from [Government Polytechnic Ghaziabad](https://gpghaziabad.ac.in/)
 
 <img width="50%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
