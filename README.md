@@ -20,7 +20,7 @@ I'm a Frontend-Heavy Full Stack Developer currently serving as a Frontend Lead a
 - **[Indiassetz App](https://apps.apple.com/in/app/indiassetz/id1632174365)**: Build Indiassetz App using React Native from scratch for Android and iOS for Real Estate Wealth Management 
 - **[Git Command Explorer](https://github.com/dasjideepak/git-command-explorer)**: Git Command Explorer is a Google Chrome Extension using this extension user can learn or revise git commands and this extension is designed using HTML CSS and Vanilla JavaScript
 
-## 📄 Experience - 2.5+ Years
+## 📄 Experience
 
 - **Senior Software Engineer and Frontend Lead**: Indiassetz, Bengaluru (Sep 2022 - Present)
 - **Software Engineer (Freelancer)**: Arvolution, Mexico City (Jan 2022 - Jul 2022)
@@ -30,9 +30,9 @@ I'm a Frontend-Heavy Full Stack Developer currently serving as a Frontend Lead a
 
 ## 🎓 Education
 
-- **Fellow Engineer** (Jan 2022 - Apr 2022): Pesto Tech - Delhi
-- **Fellow Full Stack Developer (Jan 2020 - Oct 2020)**: AltCampus - Dharamshala
-- **Diploma in Information Technology (Jul 2016 - Jun 2019)**: Government Polytechnic Ghaziabad
+- **Fellow Engineer**: Pesto Tech - Delhi (Jan 2022 - Apr 2022)
+- **Fellow Full Stack Developer**: AltCampus - Dharamshala (Jan 2020 - Oct 2020)
+- **Diploma in Information Technology**: Government Polytechnic Ghaziabad (Jul 2016 - Jun 2019)
 
 ## 📬 Get in Touch
 
