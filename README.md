@@ -1,42 +1,44 @@
-## Hi 👋, I'm Deepak Sharma, a Full Stack Web Developer ##
+# Hi!, I'm Deepak Sharma 👋
 
-<a href="https://www.linkedin.com/in/dasjideepak/">
-  <img align="left" alt="Deepak's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
-</a>
-<a href="https://twitter.com/dasjideepak">
-  <img align="left" alt="Deepak's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
-</a>
-<a href="https://medium.com/@dasjideepak">
-  <img align="left" alt="Deepak's Medium" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg" />
-</a>
-<a href="https://github.com/dasjideepak">
-  <img align="left" alt="Deepak's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
-</a>
-<a href="https://www.instagram.com/dasjideepak/">
-  <img align="left" alt="Deepak's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
-</a>
-<a href="https://www.facebook.com/dasjideepak">
-  <img align="left" alt="Deepak's Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
-</a>
+I'm a Frontend-Heavy Full Stack Developer currently serving as a Frontend Lead at Indiassetz, Bangalore. I have a proven track record of leading teams and delivering successful MVPs in the fast-paced startup environment, My expertise in frontend technologies, such as JavaScript, ReactJS, VueJS and React Native, has helped me to create user-friendly and visually appealing software products.
 
-&nbsp;
+- 🌱 I’m currently learning **Product Development and System Design**
+- 👯 I’m looking to collaborate on **ReactJS, React Native, VueJS and NodeJS projects**
+- 💬 Ask me about **Full Stack Development**
+- 📫 How to reach me: **dasjideepak@gmail.com**
+- ⚡ Fun fact: **Coding Globetrotter**
 
-### About Me ###
-----------------------------------------------------------------------------------------------------------------------------
-I am a Software Engineer at Credilio Financial Technologies Ltd, Before I was learning MERN Stack Web Development at [AltCampus](https://altcampus.io/), Dharamshala, Himachal Pradesh.
-I have completed my three years Diploma in Information Technology from [Government Polytechnic Ghaziabad](https://gpghaziabad.ac.in/)
+## 🛠 Skills
 
-<img width="50%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
+- **Languages**: JavaScript, TypeScript
+- **Front-End**: ReactJS, React Native, VueJS, NuxtJS, Redux
+- **Back-End**: Node.js, Express.js, MongoDB, PostgreSQL
+- **Others**: Firebase, Flipper, Figma
 
-- 🔭 I’m looking for job.
-- 📫 How to reach me: dasjideepak@gmail.com
-- 📫 My Portfolio: [https://deepak-dev.netlify.app](https://deepak-dev.netlify.app/)
-- 📫 Read my blogs: [https://dasjideepak.tech](https://dasjideepak.tech/)
-- 📫 My Resume: [View PDF](https://drive.google.com/file/d/1JQajsSqBFuGa2kBp8-zXQrrh_dbn5S--/view?usp=sharing)
+## 📈 Projects
 
-### Skills ###
-----------------------------------------------------------------------------------------------------------------------------
-- 🚀 Languages - **HTML, CSS and JavaScript**
-- 🚀 Frameworks/Libraries - **SCSS/SASS, React, Redux, NodeJS and ExpressJS**
-- 🚀 Database/ORM - **MongoDB, Mongoose and PostgresSQL**
-- 🚀 Other - **Git, Developer Tool, Webpack, GraphQL, Hasura, OAuth and REST API Development**
+- **[Indiassetz App](https://apps.apple.com/in/app/indiassetz/id1632174365)**: Build Indiassetz App using React Native from scratch for Android and iOS for Real Estate Wealth Management 
+- **[Git Command Explorer](https://github.com/dasjideepak/git-command-explorer)**: Git Command Explorer is a Google Chrome Extension using this extension user can learn or revise git commands and this extension is designed using HTML CSS and Vanilla JavaScript
+
+## 📄 Experience - 2.5+ Years
+
+- **Senior Software Engineer and Frontend Lead**: Indiassetz, Bengaluru (Sep 2022 - Present)
+- **Software Engineer (Freelancer)**: Arvolution, Mexico City (Jan 2022 - Jul 2022)
+- **Full Stack Developer**: Builderfly, Ahmedabad (Dec 2021 - Jun 2022)
+- **Software Engineer**: Credilio, Mumbai (Nov 2020 - Nov 2021)
+- **Software Developer (Freelancer)**: Vcynta, Texas (Jun 2020 - Aug 2020)
+
+## 🎓 Education
+
+- **Fellow Engineer** (Jan 2022 - Apr 2022): Pesto Tech - Delhi
+- **Fellow Full Stack Developer (Jan 2020 - Oct 2020)**: AltCampus - Dharamshala
+- **Diploma in Information Technology (Jul 2016 - Jun 2019)**: Government Polytechnic Ghaziabad
+
+## 📬 Get in Touch
+
+- **LinkedIn**: [https://linkedin.com/in/dasjideepak](https://linkedin.com/in/dasjideepak)
+- **Twitter**: [https://twitter.com/dasjideepak](https://twitter.com/dasjideepak)
+- **Medium**: [https://medium.com/@dasjideepak](https://medium.com/@dasjideepak)
+- **Portfolio**: [https://dasjideepak.com](https://dasjideepak.com)
+- **Peerlist**: [https://peerlist.io/dasjideepak](https://peerlist.io/dasjideepak)
+
