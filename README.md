@@ -73,5 +73,4 @@ A Frontend-focused Full Stack JavaScript Developer with 4+ years of experience i
 - **LinkedIn**: [https://linkedin.com/in/dasjideepak](https://linkedin.com/in/dasjideepak)
 - **Twitter**: [https://twitter.com/dasjideepak](https://twitter.com/dasjideepak)
 - **Medium**: [https://medium.com/@dasjideepak](https://medium.com/@dasjideepak)
-- **Peerlist**: [https://peerlist.io/dasjideepak](https://peerlist.io/dasjideepak)
 
