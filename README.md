@@ -34,19 +34,22 @@ A Frontend-focused Full Stack JavaScript Developer with 4+ years of experience i
 
 
 ### 📈 Key Projects Delivered
-- **[aira.vrefyd.com](https://aira.vrefyd.com/login)**: A comprehensive platform that streamlines property management for brokers and customers, featuring AIRA, an AI-driven assistant that provides intelligent insights, automates tasks, and enhances decision-making for property-related needs.
+- **[aira.vrefyd.com](https://aira.vrefyd.com/login)** </br> A comprehensive platform that streamlines property management for brokers and customers, featuring AIRA, an AI-driven assistant that provides intelligent insights, automates tasks, and enhances decision-making for property-related needs.
 
-- **[doors.indiassetz.com](https://doors.indiassetz.com/)**: A property management platform with features for reports & analytics, customer and property management, event scheduling, calendar integration, push notifications, real-time chats, and backend tools for seamless operations
+- **[rehub.vrefyd.com](https://rehub.vrefyd.com/login)** </br>  An operational portal designed to streamline real estate workflows, enabling teams to efficiently manage brokers, customers, and properties. It facilitates seamless engagement, feedback collection, and verification of agents and listings
 
-- **[Indiassetz Android App](https://play.google.com/store/apps/details?id=com.indiassetz_mobile.prod&hl=en_IN) & [Indiassetz iOS App](https://apps.apple.com/in/app/indiassetz/id1632174365)**: A real estate wealth management app featuring AI-powered property management and recommendations, providing users with a seamless experience in managing their real estate investments.
 
-- **[builderfly.com](https://www.builderfly.com/)**: A SaaS-based store builder platform, enabling over 100 of small businesses to create and manage online stores. Key features include multichannel selling, inventory management, payment gateway integration, and customizable store templates.
+- **[doors.indiassetz.com](https://doors.indiassetz.com/)** </br> A property management platform with features for reports & analytics, customer and property management, event scheduling, calendar integration, push notifications, real-time chats, and backend tools for seamless operations
 
-- **[admin.credilio.in](https://admin.credilio.in/)**: Developed a comprehensive admin web app to manage credit card and personal loan applications for over 100,000 customers across 8 national banks and NBFCs, optimizing workflow and decision-making.
+- **[Indiassetz Android App](https://play.google.com/store/apps/details?id=com.indiassetz_mobile.prod&hl=en_IN) | [Indiassetz iOS App](https://apps.apple.com/in/app/indiassetz/id1632174365)** </br> A real estate wealth management app featuring AI-powered property management and recommendations, providing users with a seamless experience in managing their real estate investments.
 
-- **[customer.credilio.in](https://customer.credilio.in/)**: Developed v1 of a customer-facing portal, simplifying the credit card and personal loan application process with personalized card recommendations, customer verification, and seamless application status tracking.
+- **[builderfly.com](https://www.builderfly.com/)** </br> A SaaS-based store builder platform, enabling over 100 of small businesses to create and manage online stores. Key features include multichannel selling, inventory management, payment gateway integration, and customizable store templates.
 
-- **[advisor.credilio.in](https://advisor.credilio.in/)**: A Fintech web app for over 10,000 financial advisors, enabling them to efficiently manage thousands of loan applications and assist customers in selecting the best credit cards and personal loans.
+- **[admin.credilio.in](https://admin.credilio.in/)** </br> Developed a comprehensive admin web app to manage credit card and personal loan applications for over 100,000 customers across 8 national banks and NBFCs, optimizing workflow and decision-making.
+
+- **[customer.credilio.in](https://customer.credilio.in/)** </br> Developed v1 of a customer-facing portal, simplifying the credit card and personal loan application process with personalized card recommendations, customer verification, and seamless application status tracking.
+
+- **[advisor.credilio.in](https://advisor.credilio.in/)** </br> A Fintech web app for over 10,000 financial advisors, enabling them to efficiently manage thousands of loan applications and assist customers in selecting the best credit cards and personal loans.
 
 
 ### 🎓 Education
