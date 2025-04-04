@@ -1,6 +1,6 @@
 # Hi!, I'm Deepak Sharma 👋
 
-A Frontend-focused Full Stack JavaScript Developer with 4+ years of experience in designing, developing, and enhancing high-quality web and mobile applications. Passionate about building innovative products and continuously improving them to deliver exceptional user experiences
+A Frontend-focused Full Stack JavaScript Developer with around 5 years of experience in designing, developing, and enhancing high-quality web and mobile applications. Passionate about building innovative products and continuously improving them to deliver exceptional user experiences
 
 
 ### 📄 Professional Experience
