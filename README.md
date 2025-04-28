@@ -17,9 +17,6 @@ A Frontend-focused Full Stack JavaScript Developer with around 5 years of experi
 - **Software Engineer**: **[Credilio Infra Services Pvt Ltd](https://www.credilio.in/)** <br/>
     Mumbai, India (Nov 2020 - Nov 2021)
 
-- **Software Developer (Freelancer)**: **[Vcynta](https://www.instagram.com/vcynta/?hl=en)** <br/>
-    Texas, USA (Jun 2020 - Aug 2020)
-
 
 
 ### 🛠 Technical Skills
