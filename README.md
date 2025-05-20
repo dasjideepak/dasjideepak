@@ -6,10 +6,10 @@ A Frontend-focused Full Stack JavaScript Developer with around 5 years of experi
 ### 📄 Professional Experience
 
 - **Tech Lead - Frontend**: **[vREfyd](https://vrefyd.com/)** <br/>
-    Bengaluru, India (May 2025 - Present)
+    Bengaluru, India (Apr 2025 - Present)
 
 - **Tech Lead - Frontend**: **[Indiassetz Infra Services Pvt Ltd](https://indiassetz.com/)** <br/>
-    Bengaluru, India (Sep 2022 - Apr 2025)
+    Bengaluru, India (Sep 2022 - Mar 2025)
 
 - **Full Stack Developer**: **[Builderfly (India) Pvt Ltd](https://www.builderfly.com/)** <br/>
     Ahmedabad, India (Dec 2021 - Jun 2022)
