@@ -1,76 +1,126 @@
-# Hi!, I'm Deepak Sharma 👋
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=200&section=header&text=Deepak%20Sharma&fontSize=80&fontAlignY=35&desc=Frontend%20Developer%20|%20Tech%20Lead%20|%20Full%20Stack%20Developer&descAlignY=55&descAlign=50" />
+</div>
 
-A Frontend-focused Full Stack JavaScript Developer with around 5 years of experience in designing, developing, and enhancing high-quality web and mobile applications. Passionate about building innovative products and continuously improving them to deliver exceptional user experiences
+<div align="center">
+  <a href="https://linkedin.com/in/dasjideepak">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://twitter.com/dasjideepak">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white" />
+  </a>
+  <a href="https://medium.com/@dasjideepak">
+    <img src="https://img.shields.io/badge/Medium-000000?style=flat-square&logo=medium&logoColor=white" />
+  </a>
+</div>
 
+<br/>
 
-### 📄 Professional Experience
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=dasjideepak&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dasjideepak&theme=tokyonight&hide_border=true" />
+</div>
 
-- **Tech Lead - Frontend**: **[vREfyd](https://vrefyd.com/)** <br/>
-    Bengaluru, India (Apr 2025 - Present)
+<br/>
 
-- **Tech Lead - Frontend**: **[Indiassetz Infra Services Pvt Ltd](https://indiassetz.com/)** <br/>
-    Bengaluru, India (Sep 2022 - Mar 2025)
+## 👨‍💻 About Me
 
-- **Full Stack Developer**: **[Builderfly (India) Pvt Ltd](https://www.builderfly.com/)** <br/>
-    Ahmedabad, India (Dec 2021 - Jun 2022)
+> A Frontend-focused Full Stack JavaScript Developer with around 5 years of experience in designing, developing, and enhancing high-quality web and mobile applications. Passionate about building innovative products and continuously improving them to deliver exceptional user experiences.
 
-- **Software Engineer**: **[Credilio Infra Services Pvt Ltd](https://www.credilio.in/)** <br/>
-    Mumbai, India (Nov 2020 - Nov 2021)
+<br/>
 
+## 🎯 Professional Experience
 
+<div align="center">
+  <img src="https://img.shields.io/badge/vREfyd-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+  <img src="https://img.shields.io/badge/Indiassetz-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+  <img src="https://img.shields.io/badge/Builderfly-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+  <img src="https://img.shields.io/badge/Credilio-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+</div>
 
-### 🛠 Technical Skills
+<br/>
 
-- **Languages**: HTML, JavaScript, TypeScript
-- **Front-End**: React JS, Next JS, React Native, VueJS, NuxtJS
-- **Styling & UI Components**: Material UI, Tailwind UI / CSS, NativeBase, Vuetify
-- **Backend**: Node JS, Express JS, Firebase, MongoDB, PostgreSQL
-- **State Management & APIs**: Redux Toolkit, React Query, REST APIs, WebSockets
-- **DevOps & Deployment**: CI/CD (Github Actions), Vercel, Netlify, Firebase Hosting, AWS S3 
-- **Testing & Debugging**: React Testing Library, DevTools, Postman, Flipper
-- **Tools & Productivity**: VS Code, Git, GitHub, Jira, Figma, Webpack, Babel, Storybook
-- **Others**: Performance Optimization, SEO, PWA (Progressive Web Apps), Internationalisation (i18n)
+| Company                                   | Role                    | Duration            | Location         |
+| :---------------------------------------- | :---------------------- | :------------------ | :--------------- |
+| [vREfyd](https://vrefyd.com/)             | 🎯 Tech Lead - Frontend | Apr 2025 - Present  | Bengaluru, India |
+| [Indiassetz](https://indiassetz.com/)     | 🎯 Tech Lead - Frontend | Sep 2022 - Mar 2025 | Bengaluru, India |
+| [Builderfly](https://www.builderfly.com/) | 💻 Full Stack Developer | Dec 2021 - Jun 2022 | Ahmedabad, India |
+| [Credilio](https://www.credilio.in/)      | 💻 Software Engineer    | Nov 2020 - Nov 2021 | Mumbai, India    |
 
+<br/>
 
+## 🛠️ Tech Stack
 
-### 📈 Key Projects Delivered
-- **[aira.vrefyd.com](https://aira.vrefyd.com/login)** </br> A comprehensive platform that streamlines property management for brokers and customers, featuring AIRA, an AI-driven assistant that provides intelligent insights, automates tasks, and enhances decision-making for property-related needs.
+<div align="center">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/React_Native-61DAFB?style=flat-square&logo=react&logoColor=black" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white" />
+  <img src="https://img.shields.io/badge/Material_UI-0081CB?style=flat-square&logo=material-ui&logoColor=white" />
+</div>
 
-- **[rehub.vrefyd.com](https://rehub.vrefyd.com/login)** </br>  An operational portal designed to streamline real estate workflows, enabling teams to efficiently manage brokers, customers, and properties. It facilitates seamless engagement, feedback collection, and verification of agents and listings
+<br/>
 
+## 🌟 Featured Projects
 
-- **[doors.indiassetz.com](https://doors.indiassetz.com/)** </br> A property management platform with features for reports & analytics, customer and property management, event scheduling, calendar integration, push notifications, real-time chats, and backend tools for seamless operations
+<div align="center">
+  <a href="https://aira.vrefyd.com/login">
+    <img src="https://img.shields.io/badge/AIRA-vREfyd-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+  </a>
+  <a href="https://rehub.vrefyd.com/login">
+    <img src="https://img.shields.io/badge/ReHub-vREfyd-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+  </a>
+  <a href="https://doors.indiassetz.com/">
+    <img src="https://img.shields.io/badge/Doors-Indiassetz-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+  </a>
+</div>
 
-- **[Indiassetz Android App](https://play.google.com/store/apps/details?id=com.indiassetz_mobile.prod&hl=en_IN) | [Indiassetz iOS App](https://apps.apple.com/in/app/indiassetz/id1632174365)** </br> A real estate wealth management app featuring AI-powered property management and recommendations, providing users with a seamless experience in managing their real estate investments.
+<br/>
 
-- **[builderfly.com](https://www.builderfly.com/)** </br> A SaaS-based store builder platform, enabling over 100 of small businesses to create and manage online stores. Key features include multichannel selling, inventory management, payment gateway integration, and customizable store templates.
+<details>
+<summary>📱 Mobile Apps</summary>
+<br/>
+<div align="center">
+  <a href="https://play.google.com/store/apps/details?id=com.indiassetz_mobile.prod">
+    <img src="https://img.shields.io/badge/Indiassetz-Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" />
+  </a>
+  <a href="https://apps.apple.com/in/app/indiassetz/id1632174365">
+    <img src="https://img.shields.io/badge/Indiassetz-iOS-000000?style=for-the-badge&logo=ios&logoColor=white" />
+  </a>
+</div>
+</details>
 
-- **[admin.credilio.in](https://admin.credilio.in/)** </br> Developed a comprehensive admin web app to manage credit card and personal loan applications for over 100,000 customers across 8 national banks and NBFCs, optimizing workflow and decision-making.
+<br/>
 
-- **[customer.credilio.in](https://customer.credilio.in/)** </br> Developed v1 of a customer-facing portal, simplifying the credit card and personal loan application process with personalized card recommendations, customer verification, and seamless application status tracking.
+## 📚 Education
 
-- **[advisor.credilio.in](https://advisor.credilio.in/)** </br> A Fintech web app for over 10,000 financial advisors, enabling them to efficiently manage thousands of loan applications and assist customers in selecting the best credit cards and personal loans.
+<div align="center">
+  <img src="https://img.shields.io/badge/IGNOU-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+  <img src="https://img.shields.io/badge/Pesto_Tech-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+  <img src="https://img.shields.io/badge/AltCampus-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+  <img src="https://img.shields.io/badge/GPG-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+</div>
 
+<br/>
 
-### 🎓 Education
+| Degree                               | Institution                           | Duration            | Location           |
+| :----------------------------------- | :------------------------------------ | :------------------ | :----------------- |
+| 🎓 Bachelor of Computer Application  | [IGNOU](https://www.ignou.ac.in/)     | Jan 2023 - Dec 2025 | New Delhi, India   |
+| 💻 Fellow Engineer                   | [Pesto Tech](https://pesto.tech/)     | Jan 2022 - Apr 2022 | Gurugram, India    |
+| 💻 Fellow Full Stack Developer       | [AltCampus](https://altcampus.com/)   | Jan 2020 - Oct 2020 | Dharamshala, India |
+| 🎓 Diploma in Information Technology | [GPG](https://www.gpghaziabad.ac.in/) | Jul 2016 - Jun 2019 | Ghaziabad, India   |
 
-- **Bachelor of Computer Application**: [Indira Gandhi National Open University](https://www.ignou.ac.in/) <br/>
-    New Delhi, India (Jan 2023 - Dec 2025)
+<br/>
 
-- **Fellow Engineer**: [Pesto Tech (India) Pvt Ltd](https://pesto.tech/) <br/>
-    Gurugram, India (Jan 2022 - Apr 2022)
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=dasjideepak&style=flat-square&color=blue" alt="Profile Views" />
+</div>
 
-- **Fellow Full Stack Developer**: [AltCampus Services Pvt Ltd](https://altcampus.com/) <br/>
-    Dharamshala, India (Jan 2020 - Oct 2020)
-
-- **Diploma in Information Technology**: [Government Polytechnic Ghaziabad](https://www.gpghaziabad.ac.in/) <br/>
-    Ghaziabad, India (Jul 2016 - Jun 2019)
-
-
-
-### 📬 Get in Touch
-
-- **LinkedIn**: [https://linkedin.com/in/dasjideepak](https://linkedin.com/in/dasjideepak)
-- **Twitter**: [https://twitter.com/dasjideepak](https://twitter.com/dasjideepak)
-- **Medium**: [https://medium.com/@dasjideepak](https://medium.com/@dasjideepak)
-
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=100&section=footer" />
+</div>
